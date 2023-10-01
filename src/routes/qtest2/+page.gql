@@ -1,0 +1,7 @@
+query Test2 {
+  character(id: 2)
+  {
+    name
+  }
+  
+}
